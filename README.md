@@ -1,2 +1,4 @@
-# forest-dots
-![eqzmro1726u91](https://github.com/Griffith-Femto/forest-dots/assets/115965646/54a212e5-2475-4fcd-90dc-51b7dd6031fe)
+# forest-dots (simplified)
+![preview](https://github.com/sandwitchByte/forest-dots/tree/master/screenshots)
+I found got the wallpaper from [this thread](https://www.reddit.com/r/PixelArt/comments/laqtqb/another_free_pixelart_wallpaper_pack_this_time/)
+credit for wallpapers goes to \@\Franrekk on Twitter
