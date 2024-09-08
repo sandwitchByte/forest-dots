@@ -92,11 +92,10 @@ color: #fcfcfc
   border-radius: 11px;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
 }
-.app-well-app-running-dot{
+.app-grid-running-dot{
   width: 10px;
   height: 5px;
   border-radius: 4px;
-  background-color: #db5e69;
 }
 .app-folder-dialog{
   background-color: #1e201f;
